@@ -24,7 +24,9 @@ Furniland is a furniture e-commerce website developed as an academic project. It
 See the screenshots folder for examples of the application's interface.
 
 ## My Contribution
-[Describe the features and components you personally developed.]
+- **Database Development:** Designed and implemented SQL queries and connected the database to the website's HTML interface.
+- **UI Styling:** Developed CSS styling based on the project scope and requirements provided by the lecturer.
+- **Customer Interface Development:** Developed customer-facing pages and subpages within the Furniland website.
 
 ## Notes
 This project was developed for educational and portfolio purposes.
